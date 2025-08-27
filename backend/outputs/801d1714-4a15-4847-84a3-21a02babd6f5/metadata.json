@@ -1,0 +1,13 @@
+{
+  "document_id": "801d1714-4a15-4847-84a3-21a02babd6f5",
+  "original_filename": "EFAX_2411131623044653.pdf",
+  "upload_date": "2025-08-27T09:57:06.367010",
+  "status": "uploaded",
+  "created_at": "2025-08-27T09:57:06.373601",
+  "file_paths": {
+    "raw_copy": "/home/saman/scheduling/backend/outputs/801d1714-4a15-4847-84a3-21a02babd6f5/EFAX_2411131623044653.pdf",
+    "html": "/home/saman/scheduling/backend/outputs/801d1714-4a15-4847-84a3-21a02babd6f5/EFAX_2411131623044653.html",
+    "extracted_info": "/home/saman/scheduling/backend/outputs/801d1714-4a15-4847-84a3-21a02babd6f5/extracted_info.json",
+    "metadata": "/home/saman/scheduling/backend/outputs/801d1714-4a15-4847-84a3-21a02babd6f5/metadata.json"
+  }
+}

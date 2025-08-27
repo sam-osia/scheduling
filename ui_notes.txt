@@ -1,0 +1,7 @@
+strong colors for interactive buttons
+all buttons have same color 
+yellow/red for information 
+clickable button within clickable row
+combine cards on the left to just "documents"
+auto parse on upload
+document specific actions should be in the list on the left (i.e. parse document) 

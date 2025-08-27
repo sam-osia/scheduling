@@ -1,0 +1,36 @@
+/* Minimal CSS for MUI-based application */
+
+.App {
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Custom styles that MUI doesn't cover */
+.parsed-text {
+  white-space: pre-wrap;
+  font-family: 'Courier New', monospace;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  background-color: #f8f9fa;
+  padding: 1rem;
+  border-radius: 4px;
+  border: 1px solid #e9ecef;
+}
+
+/* PDF viewer styles that might be needed */
+.raw-view, .parsed-view {
+  height: 100%;
+}
+
+.no-preview {
+  text-align: center;
+  color: #666;
+  padding: 2rem;
+}
+
+/* Responsive Design adjustments if needed */
+@media (max-width: 900px) {
+  .App {
+    overflow: auto;
+  }
+}

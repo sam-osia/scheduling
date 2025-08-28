@@ -1,0 +1,13 @@
+{
+  "document_id": "79a5a972-d317-444d-baa4-955b249530c7",
+  "original_filename": "sample1 (3).pdf",
+  "upload_date": "2025-08-28T13:26:46.979618",
+  "status": "uploaded",
+  "created_at": "2025-08-28T13:26:46.981167",
+  "file_paths": {
+    "raw_copy": "/home/saman/scheduling/backend/outputs/79a5a972-d317-444d-baa4-955b249530c7/sample1 (3).pdf",
+    "html": "/home/saman/scheduling/backend/outputs/79a5a972-d317-444d-baa4-955b249530c7/sample1 (3).html",
+    "extracted_info": "/home/saman/scheduling/backend/outputs/79a5a972-d317-444d-baa4-955b249530c7/extracted_info.json",
+    "metadata": "/home/saman/scheduling/backend/outputs/79a5a972-d317-444d-baa4-955b249530c7/metadata.json"
+  }
+}

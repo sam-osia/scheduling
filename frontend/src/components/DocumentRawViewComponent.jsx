@@ -4,6 +4,7 @@ import {
   Typography,
   Link
 } from '@mui/material';
+import ApiService from '../services/ApiService';
 
 const DocumentRawViewComponent = ({ document }) => {
   if (!document) {
@@ -22,8 +23,8 @@ const DocumentRawViewComponent = ({ document }) => {
     );
   }
 
-  // Generate API URL for the PDF file
-  const fileUrl = document.id ? `http://localhost:8000/api/documents/${document.id}/raw` : null;
+  // Generate API URL for the PDF file using ApiService baseURL
+  const fileUrl = document.id ? `${ApiService.defaults.baseURL}/documents/${document.id}/raw` : null;
 
   return (
     <Box sx={{ height: '100%', p: 1 }}>
